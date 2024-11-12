@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Universal_Hospitals/static/css/main.5fdf764d.css",
+    "main.js": "/Universal_Hospitals/static/js/main.f630f189.js",
+    "index.html": "/Universal_Hospitals/index.html",
+    "main.5fdf764d.css.map": "/Universal_Hospitals/static/css/main.5fdf764d.css.map",
+    "main.f630f189.js.map": "/Universal_Hospitals/static/js/main.f630f189.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fdf764d.css",
+    "static/js/main.f630f189.js"
+  ]
+}
